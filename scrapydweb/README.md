@@ -27,7 +27,7 @@ screenshots | [gif](./README_GIF.md) | [back to ScrapydWeb](https://github.com/m
 - Manage Projects
 ![manage](./screenshots/manage.png)
 
-- Mobile UI
+- ### Mobile UI
 ![mobileui](./screenshots/mobileui.png)
 
 
