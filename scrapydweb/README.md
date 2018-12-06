@@ -1,4 +1,4 @@
-screenshots | [mobileui](./README_MOBILEUI.md) | [gif](./README_GIF.md) | [back to ScrapydWeb](https://github.com/my8100/scrapydweb)
+screenshots | [gif](./README_GIF.md) | [back to ScrapydWeb](https://github.com/my8100/scrapydweb)
 
 # SCREENSHOTS
 
@@ -13,7 +13,7 @@ screenshots | [mobileui](./README_MOBILEUI.md) | [gif](./README_GIF.md) | [back 
 ![log_stats](./screenshots/log_stats.png)
 
   - progress visualization
-![log_graph](./screenshots/log_graph.png)
+![log_charts](./screenshots/log_charts.png)
 
   - logs categorization
 ![log_logs](./screenshots/log_logs.png)
@@ -26,6 +26,9 @@ screenshots | [mobileui](./README_MOBILEUI.md) | [gif](./README_GIF.md) | [back 
 
 - Manage Projects
 ![manage](./screenshots/manage.png)
+
+- Mobile UI
+![mobileui](./screenshots/mobileui.png)
 
 
 [jump to top](#screenshots)

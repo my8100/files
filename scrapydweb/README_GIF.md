@@ -1,4 +1,4 @@
-[screenshots](./README.md) | [mobileui](./README_MOBILEUI.md) | gif | [back to ScrapydWeb](https://github.com/my8100/scrapydweb)
+[screenshots](./README.md) | gif | [back to ScrapydWeb](https://github.com/my8100/scrapydweb)
 
 # GIF DEMO
 
