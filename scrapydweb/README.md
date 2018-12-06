@@ -8,6 +8,12 @@ screenshots | [gif](./README_GIF.md) | [back to ScrapydWeb](https://github.com/m
 - Dashboard
 ![dashboard](./screenshots/dashboard.png)
 
+- Deploy Project
+![deploy](./screenshots/deploy.png)
+
+- Run Spider
+![run](./screenshots/run.png)
+
 - Log Analysis
   - stats collection
 ![log_stats](./screenshots/log_stats.png)
@@ -17,12 +23,6 @@ screenshots | [gif](./README_GIF.md) | [back to ScrapydWeb](https://github.com/m
 
   - logs categorization
 ![log_logs](./screenshots/log_logs.png)
-
-- Deploy Project
-![deploy](./screenshots/deploy.png)
-
-- Run Spider
-![run](./screenshots/run.png)
 
 - Manage Projects
 ![manage](./screenshots/manage.png)
