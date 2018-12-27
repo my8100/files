@@ -1,4 +1,4 @@
-screenshots | [gif](./README_GIF.md) | [back to ScrapydWeb](https://github.com/my8100/scrapydweb)
+:framed_picture: Screenshots | [:film_strip: Gif Demo](./README_GIF.md) | [:back: ScrapydWeb](https://github.com/my8100/scrapydweb)
 
 # SCREENSHOTS
 
@@ -14,14 +14,14 @@ screenshots | [gif](./README_GIF.md) | [back to ScrapydWeb](https://github.com/m
 - Run Spider
 ![run](./screenshots/run.png)
 
-- Log Analysis
-  - stats collection
+- Scrapy Log Analysis
+  - Stats collection
 ![log_stats](./screenshots/log_stats.png)
 
-  - progress visualization
+  - Progress visualization
 ![log_charts](./screenshots/log_charts.png)
 
-  - logs categorization
+  - Logs categorization
 ![log_logs](./screenshots/log_logs.png)
 
 - Manage Projects
@@ -31,6 +31,6 @@ screenshots | [gif](./README_GIF.md) | [back to ScrapydWeb](https://github.com/m
 ![mobileui](./screenshots/mobileui.png)
 
 
-[jump to top](#screenshots)
+[⬆ Jump to top](#screenshots)
 
-[back to ScrapydWeb](https://github.com/my8100/scrapydweb)
+:framed_picture: Screenshots | [:film_strip: Gif Demo](./README_GIF.md) | [:back: ScrapydWeb](https://github.com/my8100/scrapydweb)
