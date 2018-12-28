@@ -3,32 +3,32 @@
 # SCREENSHOTS
 
 - Overview
-![overview](./screenshots/overview.png)
+![overview](https://raw.githubusercontent.com/my8100/files/master/scrapydweb/screenshots/overview.png)
 
 - Dashboard
-![dashboard](./screenshots/dashboard.png)
+![dashboard](https://raw.githubusercontent.com/my8100/files/master/scrapydweb/screenshots/dashboard.png)
 
 - Deploy Project
-![deploy](./screenshots/deploy.png)
+![deploy](https://raw.githubusercontent.com/my8100/files/master/scrapydweb/screenshots/deploy.png)
 
 - Run Spider
-![run](./screenshots/run.png)
+![run](https://raw.githubusercontent.com/my8100/files/master/scrapydweb/screenshots/run.png)
 
 - Scrapy Log Analysis
   - Stats collection
-![log_stats](./screenshots/log_stats.png)
+![log_stats](https://raw.githubusercontent.com/my8100/files/master/scrapydweb/screenshots/log_stats.png)
 
   - Progress visualization
-![log_charts](./screenshots/log_charts.png)
+![log_charts](https://raw.githubusercontent.com/my8100/files/master/scrapydweb/screenshots/log_charts.png)
 
   - Logs categorization
-![log_logs](./screenshots/log_logs.png)
+![log_logs](https://raw.githubusercontent.com/my8100/files/master/scrapydweb/screenshots/log_logs.png)
 
 - Manage Projects
-![manage](./screenshots/manage.png)
+![manage](https://raw.githubusercontent.com/my8100/files/master/scrapydweb/screenshots/manage.png)
 
 - Mobile UI
-![mobileui](./screenshots/mobileui.png)
+![mobileui](https://raw.githubusercontent.com/my8100/files/master/scrapydweb/screenshots/mobileui.png)
 
 
 [⬆ Jump to top](#screenshots)
