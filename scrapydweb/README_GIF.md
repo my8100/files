@@ -30,4 +30,4 @@
 
 [⬆ Jump to top](#gif-demo)
 
-:framed_picture: Screenshots | [:film_strip: Gif Demo](./README_GIF.md) | [:back: ScrapydWeb](https://github.com/my8100/scrapydweb)
+[:framed_picture: Screenshots](./README.md) | :film_strip: Gif Demo | [:back: ScrapydWeb](https://github.com/my8100/scrapydweb)
