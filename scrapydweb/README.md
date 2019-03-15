@@ -1,36 +1,27 @@
-:framed_picture: Screenshots | [:film_strip: Gif Demo](./README_GIF.md) | [:back: ScrapydWeb](https://github.com/my8100/scrapydweb)
+[:back: ScrapydWeb](https://github.com/my8100/scrapydweb)
 
-# SCREENSHOTS
+# Servers
+![servers](https://raw.githubusercontent.com/my8100/files/master/scrapydweb/screenshots/servers.png)
 
-- Overview
-![overview](https://raw.githubusercontent.com/my8100/files/master/scrapydweb/screenshots/overview.png)
+# Jobs
+![jobs](https://raw.githubusercontent.com/my8100/files/master/scrapydweb/screenshots/jobs.png)
 
-- Dashboard
-![dashboard](https://raw.githubusercontent.com/my8100/files/master/scrapydweb/screenshots/dashboard.png)
+# Timer Tasks
+![tasks](https://raw.githubusercontent.com/my8100/files/master/scrapydweb/screenshots/tasks.gif)
 
-- Deploy Project
-![deploy](https://raw.githubusercontent.com/my8100/files/master/scrapydweb/screenshots/deploy.png)
+# Deploy Project
+![deploy](https://raw.githubusercontent.com/my8100/files/master/scrapydweb/screenshots/deploy.gif)
 
-- Run Spider
-![run](https://raw.githubusercontent.com/my8100/files/master/scrapydweb/screenshots/run.png)
+# Run Spider
+![run](https://raw.githubusercontent.com/my8100/files/master/scrapydweb/screenshots/run.gif)
 
-- Scrapy Log Analysis
-  - Stats collection
-![log_stats](https://raw.githubusercontent.com/my8100/files/master/scrapydweb/screenshots/log_stats.png)
+# Scrapy Log Analysis & Visualization
+![run](https://raw.githubusercontent.com/my8100/files/master/scrapydweb/screenshots/stats.gif)
 
-  - Progress visualization
-![log_charts](https://raw.githubusercontent.com/my8100/files/master/scrapydweb/screenshots/log_charts.png)
-
-  - Logs categorization
-![log_logs](https://raw.githubusercontent.com/my8100/files/master/scrapydweb/screenshots/log_logs.png)
-
-- Manage Projects
-![manage](https://raw.githubusercontent.com/my8100/files/master/scrapydweb/screenshots/manage.png)
-
-- Mobile UI
+# Mobile UI
 ![mobileui](https://raw.githubusercontent.com/my8100/files/master/scrapydweb/screenshots/mobileui.png)
 
 
-[⬆ Jump to top](#screenshots)
+[Jump to top](#Servers)
 
-:framed_picture: Screenshots | [:film_strip: Gif Demo](./README_GIF.md) | [:back: ScrapydWeb](https://github.com/my8100/scrapydweb)
+[:back: ScrapydWeb](https://github.com/my8100/scrapydweb)
