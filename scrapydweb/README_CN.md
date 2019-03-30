@@ -1,4 +1,4 @@
-[:abc: English](./README.md) | :mahjong: 简体中文 | [:back: ScrapydWeb](https://github.com/my8100/scrapydweb)
+[:abc: English](./README.md) | :mahjong: 简体中文 | [:back: ScrapydWeb](https://github.com/my8100/scrapydweb/blob/master/README_CN.md)
 
 # 如何简单高效地部署和监控分布式爬虫项目
 
@@ -113,4 +113,4 @@ LOG_IGNORE_TRIGGER_FORCESTOP = False
 
 [返回顶部](#user-content-如何简单高效地部署和监控分布式爬虫项目)
 
-[:back: ScrapydWeb](https://github.com/my8100/scrapydweb)
+[:back: ScrapydWeb](https://github.com/my8100/scrapydweb/blob/master/README_CN.md)

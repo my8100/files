@@ -60,7 +60,7 @@ Visit http://127.0.0.1:5000, and log in with the USERNAME and PASSWORD above.
 ## Log analysis & visualization
 * **It's recommended to set up the `SCRAPYD_LOGS_DIR` and the `ENABLE_LOGPARSER` option if you are running Scrapyd and *ScrapydWeb* on the same machine** so that [*LogParser*](https://github.com/my8100/logparser) would be launched automatically along with *ScrapydWeb*. The *LogParser* subprocess would parse Scrapy log files in the specified directory periodically and incrementally, thus speeding up the loading of the Stats page without consuming RAM and bandwidth due to requesting the original log file.
 * **Similarly, install and run *LogParser* on the rest of your hosts.**
-* *LogParser* would be able to collect Crawler.stats and Crawler.engine via the built-in telnet console of Scrapy if you are using Scrapy 1.5.1 and earlier version.
+* *LogParser* would be able to collect Crawler.stats and Crawler.engine via the built-in [telnet console](https://scrapy.readthedocs.io/en/latest/topics/telnetconsole.html) of Scrapy if you are using Scrapy 1.5.1 and earlier version.
 
 ![stats](https://raw.githubusercontent.com/my8100/files/master/scrapydweb/screenshots/stats.gif)
 
