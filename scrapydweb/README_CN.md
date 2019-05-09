@@ -27,7 +27,7 @@ SCRAPYD_SERVERS = [
 
 
 ## 访问 web UI
-通过浏览器访问并登录 http://127.0.0.1:5000。
+通过浏览器访问并登录 http://127.0.0.1:5000
 * Servers 页面自动输出所有 Scrapyd server 的运行状态。
 * 通过分组和过滤可以自由选择若干台 Scrapyd server，然后在上方 Tabs 标签页中选择 Scrapyd 提供的任一 [HTTP JSON API](https://scrapyd.readthedocs.io/en/latest/api.html)，实现**一次操作，批量执行**。
 

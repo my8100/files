@@ -28,7 +28,7 @@ SCRAPYD_SERVERS = [
 
 
 ## Visit web UI
-Visit http://127.0.0.1:5000, and log in with the USERNAME and PASSWORD above.
+Visit http://127.0.0.1:5000, and log in with the USERNAME/PASSWORD above.
 * The Servers page would automatically display the working status of all of your Scrapyd servers.
 * You can select any number of Scrapyd servers by grouping and filtering, and then invoke the [HTTP JSON API of Scrapyd](https://scrapyd.readthedocs.io/en/latest/api.html) on the cluster with just a few clicks.
 
