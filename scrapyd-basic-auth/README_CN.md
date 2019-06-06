@@ -15,6 +15,9 @@ https://github.com/scrapy/scrapyd/pull/326
 
 ## 试用
 1. 安装：`pip install -U git+https://github.com/my8100/scrapyd.git@add_basic_auth`
+
+**PR 已被合并：** `pip install -U git+https://github.com/scrapy/scrapyd.git`
+
 2. 更新配置文件 *scrapyd.conf*，其余配置项详见[官方文档](https://scrapyd.readthedocs.io/en/latest/config.html#example-configuration-file)
 ```
 [scrapyd]

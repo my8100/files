@@ -15,6 +15,9 @@ https://github.com/scrapy/scrapyd/pull/326
 
 ## Try it out
 1. Install via `pip install -U git+https://github.com/my8100/scrapyd.git@add_basic_auth`
+
+**PR merged:** `pip install -U git+https://github.com/scrapy/scrapyd.git`
+
 2. Update the *scrapyd.conf* file, check out the  [official docs](https://scrapyd.readthedocs.io/en/latest/config.html#example-configuration-file) for more info
 ```
 [scrapyd]
