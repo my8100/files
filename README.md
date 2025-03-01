@@ -1,6 +1,6 @@
 # [ScrapydWeb](https://github.com/my8100/scrapydweb)
 
-### [:computer: DEMO 演示](https://scrapydweb.herokuapp.com)
+### [:computer: UI Preview 预览](https://scrapydweb.pythonanywhere.com/)
 
 ### [:book: How to efficiently manage your distributed web scraping projects](./scrapydweb/README.md)
 
